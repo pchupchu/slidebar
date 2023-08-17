@@ -4,4 +4,4 @@
 
 Вариант представления услуг или фотографий
 
-[sidebar](https://pchupchu.github.io/slidebar/)
+[slidebar](https://pchupchu.github.io/slidebar/)
